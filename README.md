@@ -4,3 +4,4 @@
 
 - Install [telescope](https://github.com/nvim-telescope/telescope.nvim)
 
+- Install [treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
