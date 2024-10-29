@@ -7,3 +7,5 @@
 - Install [treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 
 - Install [neo-tree](https://github.com/nvim-neo-tree/neo-tree.nvim)
+
+- Install [lualine](https://github.com/nvim-lualine/lualine.nvim)
