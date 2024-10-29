@@ -2,3 +2,5 @@
 
 - Install [CatPPuccin](https://github.com/catppuccin/nvim)
 
+- Install [telescope](https://github.com/nvim-telescope/telescope.nvim)
+
