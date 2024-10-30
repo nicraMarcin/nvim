@@ -18,11 +18,13 @@ return {
     })
     vim.api.nvim_set_keymap('n', '<leader>hi', '<cmd>lua require("rust-tools").inlay_hints.enable()<CR>', {
       noremap = true,
-      silent = true
+      silent = true,
+      desc = "Enable hints"
     })
     vim.api.nvim_set_keymap('n', '<leader>hd', '<cmd>lua require("rust-tools").inlay_hints.disable()<CR>', {
       noremap = true,
-      silent = true
+      silent = true,
+      desc = "Disable hints"
     })
   end,
   dependencies = {"neovim/nvim-lspconfig"}
